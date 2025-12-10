@@ -133,8 +133,6 @@ https://wa.xxxxxx.app/api/webhook?hub.mode=subscribe&hub.verify_token=<TOKEN>&hu
 ```
 -> devolvió `1234`, lo que confirmó la conexión.
 
-*links deshabilitados*
-
 ---
 
 ## 7. Configuración del webhook en Meta Developers
