@@ -1,4 +1,4 @@
-# Integración completa de WhatsApp Cloud API con número propio (Colegio REAL de Escuinapa)
+# Integración completa de WhatsApp Cloud API con número propio.
 
 ## Descripción general
 
